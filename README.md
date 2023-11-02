@@ -4,7 +4,7 @@ I am Ranjith R S G Team Leader
 
 Team ID : NM2023TMID04033
 
-Our Team Project : How to add google analytics to a website
+Our Team Project : How to Add Google Analytics To A website
 
 Blogspot URL : https://holidaysparadise2000.blogspot.com/
 
